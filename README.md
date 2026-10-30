@@ -1,10 +1,11 @@
+
 # Hi, I'm Md Sami Ahmad 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-I'm a B.Tech Computer Science student focused on **Data Analytics, Business Intelligence, and Data Visualization**.
+I'm a B.Tech Computer Science & Engineering student focused on **Data Analytics, Business Intelligence, and Data Visualization**.
 
-I enjoy turning raw data into meaningful insights using Python, SQL, Excel, and Power BI.
+I enjoy transforming raw data into meaningful insights using Python, SQL, Excel, and Power BI.
 
 ---
 
@@ -20,40 +21,45 @@ I enjoy turning raw data into meaningful insights using Python, SQL, Excel, and 
 
 ---
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sami-ahmad-8a6ba532b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mdsamiahmad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mdsamiahmad/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_sami5_4)
+[![X](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x)](https://x.com/md__sami_)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsamiahmad401@gmail.com)
+
+---
+
 ## 🛠️ Technical Skills
 
-### Programming & Analysis
+### 💻 Programming & Analysis
 
-- Python
-- SQL
-- Java
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Analytics
+### 📊 Data Analytics & Visualization
 
-- Pandas
-- NumPy
-- Matplotlib
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Business Intelligence
+### 🗄️ Databases
 
-- Power BI
-- Microsoft Excel
-- Pivot Tables
-- Dashboard Development
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Databases
+### ⚙️ Tools & Technologies
 
-- MySQL
-- PostgreSQL
-
-### Tools
-
-- Jupyter Notebook
-- Git
-- GitHub
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -66,7 +72,6 @@ I enjoy turning raw data into meaningful insights using Python, SQL, Excel, and 
 Analyzed 3,900+ customer transactions to understand purchasing behavior, customer segments, product preferences, and sales patterns.
 
 **Key Work:**
-
 - Data cleaning and preprocessing
 - Exploratory Data Analysis
 - Customer segmentation
@@ -75,8 +80,6 @@ Analyzed 3,900+ customer transactions to understand purchasing behavior, custome
 
 🔗 [View Project](https://github.com/mdsamiahmad/Customer-Shopping-Behavior-Analysis)
 
----
-
 ### 📈 Data Analytics Internship
 
 **Excel | SQL | Python | Power BI**
@@ -84,7 +87,6 @@ Analyzed 3,900+ customer transactions to understand purchasing behavior, custome
 A collection of data analytics projects covering different stages of the data analysis workflow.
 
 **Areas Covered:**
-
 - Excel dashboards
 - SQL analysis
 - Python data cleaning
@@ -94,8 +96,6 @@ A collection of data analytics projects covering different stages of the data an
 
 🔗 [View Project](https://github.com/mdsamiahmad/Data-Analytics-Internship)
 
----
-
 ### 💻 Data Structures & Algorithms
 
 **Java | DSA | LeetCode**
@@ -103,13 +103,10 @@ A collection of data analytics projects covering different stages of the data an
 Practicing Data Structures & Algorithms and solving coding problems using Java.
 
 **Topics Include:**
-
-- Arrays
-- Strings
+- Arrays and Strings
 - Hashing
 - Linked Lists
-- Trees
-- Graphs
+- Trees and Graphs
 - Binary Search
 - Problem-Solving Patterns
 
@@ -117,13 +114,13 @@ Practicing Data Structures & Algorithms and solving coding problems using Java.
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📌 Currently Working On
 
 - 📊 Building data analytics projects
 - 🐍 Improving Python for Data Analysis
-- 🗄️ Practicing advanced SQL
+- 🗄️ Practicing Advanced SQL
 - 📈 Developing Power BI dashboards
-- 💻 Strengthening DSA & problem-solving skills
+- 💻 Strengthening DSA and problem-solving skills
 - 🎯 Preparing for Data Analyst opportunities
 
 ---
@@ -131,30 +128,55 @@ Practicing Data Structures & Algorithms and solving coding problems using Java.
 ## 📈 My Data Analytics Workflow
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL Analysis
-   ↓
-Visualization
-   ↓
-Dashboard
-   ↓
-Business Insights
-
+       Raw Data
+           ↓
+     Data Cleaning
+           ↓
+ Exploratory Data Analysis
+           ↓
+      SQL Analysis
+           ↓
+     Visualization
+           ↓
+       Dashboard
+           ↓
+    Business Insights
 ```
-🎯 Career Focus
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=mdsamiahmad&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=mdsamiahmad&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdsamiahmad&theme=transparent&hide_border=false&layout=compact)
+
+---
+
+## 🎯 Career Focus
 
 I'm looking for opportunities where I can apply my skills in:
 
-Data Analytics | Business Intelligence | SQL | Python | Power BI
+**Data Analytics | Business Intelligence | SQL | Python | Power BI**
 
-## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-sami-ahmad-8a6ba532b/)
-- 💻 [GitHub](https://github.com/mdsamiahmad)
-- 🧩 [LeetCode](https://leetcode.com/u/mdsamiahmad/)
+My long-term goal is to grow in analytics and eventually explore Artificial Intelligence and Machine Learning.
 
-⭐ Feel free to explore my repositories and projects.
+---
+
+## ✍️ Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=mdsamiahmad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+⭐ Feel free to explore my repositories and projects. Feedback and collaboration are always welcome!
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdsamiahmad&color=blue&style=flat)
